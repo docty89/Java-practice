@@ -6,6 +6,8 @@ class Student {
   }
 }
  
+
+
  public class Lesson01 {
   public static void main(String[] args) {
     Student a001 = new Student();
